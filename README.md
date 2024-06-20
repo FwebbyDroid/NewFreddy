@@ -8,10 +8,10 @@
 - 3D printing
 - Energy
 
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| Year | Place | Position |
+| ----------- | ----------- | ----------- |
+| 2023 | Aviso Wealth | Capital Markets Trader |
+| 2008 | Penson Financial Services | Segregation Officer |
 
 
 
